@@ -1,5 +1,5 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
-COMPANY : CODTECH IT SOLUTIONS NAME : DEEPALI SANJAY HIRAVE INTERN ID : CT08HRX DOMAIN NAME: FULL STACK WEB DEVELOPMENT BATCH DURATION : December 30th, 2024 to January 30th, 2025. MENTOR NAME: : Neela Santhosh Kumar
+COMPANY : CODTECH IT SOLUTIONS NAME : KUKKADAPU SRIVALLI INTERN ID : CITS0D43 DOMAIN NAME: FULL STACK WEB DEVELOPMENT BATCH DURATION : June 11th, 2024 to July 11th, 2025. MENTOR NAME: : Neela Santhosh Kumar
 
 DESCRIPTION
 This extension helps track the time spent on different websites by monitoring user activity in Chrome tabs. It logs the time spent per domain and displays it in a popup for easy access. Below is a detailed description of the tools, resources, libraries, and the expected output:
