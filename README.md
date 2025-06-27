@@ -31,7 +31,6 @@ User Interface: Provides a simple popup displaying a table of websites and the t
 Data Persistence: Stores time data using chrome.storage.local, allowing data to persist across browser sessions.
 
 Dynamic Updates: Automatically logs and updates the time as the user navigates different websites or switches tabs.
-![406538674-608415ba-6de1-4996-92e9-3c31cd751621](https://github.com/user-attachments/assets/f8c34370-4bac-49e7-94e4-d95c7c112f41)
 
 Output Popup UI: Displays the tracked time in a tabular format for easy readability. The popup loads dynamically and updates in real-time.
 
@@ -43,4 +42,6 @@ Extension Interface: Users can click the extension icon in the toolbar to view t
 
 Advanced Features: Add daily/weekly reports of website usage. Include a reset button in the popup to clear time data.
 
-Image
+![406538674-608415ba-6de1-4996-92e9-3c31cd751621](https://github.com/user-attachments/assets/f8c34370-4bac-49e7-94e4-d95c7c112f41)
+
+
